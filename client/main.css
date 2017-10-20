@@ -1,0 +1,14 @@
+
+.panel-heading{
+    background-image: var(--main-color);
+    /* background-image: linear-gradient(#357F51, #357F51 60%, #357F51); */
+    color: #fff !important;
+}
+:root {
+    --main-color:linear-gradient(#357F51, #357F51 60%, #357F51);
+}
+
+body{
+    min-height: 55rem;
+     padding-top: 4.5rem;
+  }
